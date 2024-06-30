@@ -1,5 +1,5 @@
 # Luca_Garcia
-<h1 align="center">Oi 👋, Eu sou um Analista de Dados</h1>
+<h1 align="center">Oi 👋, Eu sou um Engenheiro de Dados</h1>
 <h3 align="center">Apaixonado por Machine Learning e Data engineering</h3>
 
 - 🌱 Atualmente estou aprendendo **Machine Learning**
